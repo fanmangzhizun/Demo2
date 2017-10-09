@@ -29,7 +29,7 @@ public class Insertsort {//插入排序
         }
     }
     public static void main(String[] args) {
-        ;//测试的数据
+        //测试的数据
         System.out.println("请输入待排序数字的数量");
         Scanner scanner=new Scanner(System.in);
         int t=scanner.nextInt();
